@@ -44,9 +44,9 @@ _Sex_ - 0 = female 1 = male
 
 _Age_ - 13-level age category 1 = 18-24 .. 9 = 60-64, 13 = 80 or older
 
-Education - Education level (EDUCA see codebook) scale 1-6 1 = Never attended school or only kindergarten 2 = elementary etc.
+_Education_ - Education level (EDUCA see codebook) scale 1-6 1 = Never attended school or only kindergarten 2 = elementary etc.
 
-Income - Income scale scale 1-8: 1 = less than 10,000 usd ... 5 = less than 35,000 usd ... 8 = 75,000 usd or more
+_Income_ - Income scale scale 1-8: 1 = less than 10,000 usd ... 5 = less than 35,000 usd ... 8 = 75,000 usd or more
 
 Метрика нацелена на выявление диабета, при этом штраф за пропущенный диабет в два раза больше, чем за ошибочный диагноз диабета.
 
